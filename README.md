@@ -8,8 +8,13 @@
   This pushed me into programming and i found myself inspired and satisfied solving working tasks in my job like volume calculations, warehouse monitoring and cars management.So a few months later i decided to change my career path with something I really like and enjoy doing and enrolled learning Java Web development.
 <h3>Some of my ideas are as follows:
 <h4>:snake: - Python volume calculation app with desktop and mobile version.
-<h4>:department_store: - Java warehouse monitoring app with embedded Database.
+<h4>:department_store: - Java warehouse manager monitoring app with embedded Database.
 <h4>:oncoming_automobile: - Car Manager application.
-<h5>:mag: You can check it out in my repos.
+<h5>:mag: You can check it out in my repos below.
 
-[Top Langs](https://github.com/TeodorGjava/warehouse-simple/blob/main/README.md)
+[Python mobile app](https://github.com/TeodorGjava/Mobile-android-app-Python-KivyMD)
+  <br>
+[Warehouse manager](https://github.com/TeodorGjava/warehouse-simple)
+  <br>
+[Python desktop app](https://github.com/TeodorGjava/ConcreteDesktopApp)
+
