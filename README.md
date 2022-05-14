@@ -12,3 +12,4 @@
 <h4>:oncoming_automobile: - Car Manager application.
 <h5>:mag: You can check it out in my repos.
 
+[Top Langs](https://github.com/TeodorGjava/warehouse-simple/blob/main/README.md)
